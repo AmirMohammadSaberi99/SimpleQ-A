@@ -38,3 +38,20 @@ A command-line interactive quiz game written in Python. Answer multiple-choice q
 
 ## Example
 
+Question 1: What is the capital of France?
+A. Paris
+B. London
+C. Berlin
+D. Madrid
+Your answer: A
+Correct!
+
+Question 2: Who wrote 'To Kill a Mockingbird'?
+A. Harper Lee
+B. Mark Twain
+C. J.K. Rowling
+D. Ernest Hemingway
+Your answer: B
+Wrong! The correct answer is A
+
+Your final score is 1/2
